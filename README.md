@@ -43,6 +43,7 @@ I'm **Muhammad Huzaifa**, a Software Engineering student at **FAST-NUCES Lahore*
 | Multi-tenant SaaS | Tenant isolation, role-based access, PostgreSQL schemas |
 | DSA and Algorithms | Java, patterns, complexity analysis, LeetCode |
 | Object-Oriented Design | Java, Swing, class diagrams, clean architecture |
+| Applied Machine Learning | Transfer learning, image classification, model serving with FastAPI |
 | Software Quality | Test design, JMeter, performance testing |
 
 ---
@@ -61,12 +62,12 @@ I'm **Muhammad Huzaifa**, a Software Engineering student at **FAST-NUCES Lahore*
 
 ### Backend and Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mysql,mongodb" />
 </p>
 
 ### Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,maven,pytorch,postman,vscode,linux" />
 </p>
 
 ---
@@ -79,8 +80,26 @@ I'm **Muhammad Huzaifa**, a Software Engineering student at **FAST-NUCES Lahore*
 | [FAST Student Facilitator](https://github.com/huzaifahayee/FAST-Student-Facilitator) | Campus platform built as a team project | Java |
 | [Block Burst Challenge](https://github.com/SCD-5B-9A/block-burst-challenge) | Team-built block puzzle game with a clean model/view split | Java, Swing |
 | [Campus Management System](https://github.com/huzaifahayee/Campus-Management-System) | Built class by class from 7 UML class diagrams | Java, OOP |
-| [Nutrify](https://github.com/huzaifahayee/Nutrify) | <!-- TODO: one-line description --> Add a short description here | <!-- TODO --> Add tech here |
-| [Campus Gigs](https://github.com/anasrashid369/Campus-gigs) | <!-- TODO: one-line description --> Add a short description here | <!-- TODO --> Add tech here |
+| [Nutrify](https://github.com/huzaifahayee/Nutrify) | AI dish recognition and calorie estimation from a single photo, built for South Asian food | Python, EfficientNet-B0, FastAPI, React |
+| [Campus Gigs](https://github.com/anasrashid369/Campus-gigs) | Desktop marketplace where students post paid tasks, with a token escrow and ledger | Java 17, Swing, MySQL, Maven |
+
+
+### Project Highlights
+
+**Nutrify** (team of two)
+- Recognizes 14 desi dishes (biryani, nihari, haleem, karahi and more) from a photo and returns a calorie range
+- Transfer learning with EfficientNet-B0: 79.9% test accuracy and 0.97 AUC-ROC, against 50.9% for a baseline CNN
+- Rejects non-dish photos with a confidence check plus a feature-similarity check
+- FastAPI backend, React (Vite) frontend, adjustable portion size, and a user correction feedback loop
+- Full pipeline: data scraping, cleaning, EDA, hyperparameter tuning, bias check, and a LaTeX report
+
+**Campus Gigs** (group of three)
+- Students post small paid gigs and others apply; payment uses simulated tokens, no real money
+- Escrow holds the client's tokens on hire and releases them on approval, with every movement written to a ledger
+- Layered architecture (Presentation, Service, DAO) with JDBC `PreparedStatement` only
+- Design patterns: State, Strategy, Factory, Observer, DAO
+- JUnit 5 and Mockito tests, built with Maven
+- My part: database design, wallet, escrow, ledger, gig lifecycle and disputes
 
 ---
 
