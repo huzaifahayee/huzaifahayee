@@ -6,7 +6,7 @@
 <!-- Typing animation -->
 <p align="center">
   <a href="https://github.com/huzaifahayee">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+full+stack+apps+with+MERN+%26+PERN;Solving+DSA+problems+in+Java;SE+Junior+%40+FAST-NUCES+Lahore;Ex-Trainee+Software+Engineer+%40+NextBridge" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Java+and+Python+projects;Solving+DSA+problems+in+Java;SE+Junior+%40+FAST-NUCES+Lahore;Ex-Trainee+Software+Engineer+%40+NextBridge" alt="typing" />
   </a>
 </p>
 
@@ -27,7 +27,7 @@
 
 I'm **Muhammad Huzaifa**, a Software Engineering student at **FAST-NUCES Lahore** who loves building **full stack web applications** and sharpening problem-solving with **data structures and algorithms**.
 
-- Currently building **multi-tenant SaaS** products with the **PERN** and **MERN** stacks
+- Currently building **Java** and **Python** projects, including **Campus Gigs** and **Nutrify**
 - Completed a **Trainee Software Engineer** internship at **NextBridge Ltd.** (Jun to Aug 2026)
 - Practicing **DSA in Java** on LeetCode
 - Learning **performance testing** with Apache JMeter
@@ -80,6 +80,7 @@ I'm **Muhammad Huzaifa**, a Software Engineering student at **FAST-NUCES Lahore*
 | [Block Burst Challenge](https://github.com/SCD-5B-9A/block-burst-challenge) | Team-built block puzzle game with a clean model/view split | Java, Swing |
 | [Campus Management System](https://github.com/huzaifahayee/Campus-Management-System) | Built class by class from 7 UML class diagrams | Java, OOP |
 | [Nutrify](https://github.com/huzaifahayee/Nutrify) | <!-- TODO: one-line description --> Add a short description here | <!-- TODO --> Add tech here |
+| [Campus Gigs](https://github.com/anasrashid369/Campus-gigs) | <!-- TODO: one-line description --> Add a short description here | <!-- TODO --> Add tech here |
 
 ---
 
@@ -108,7 +109,7 @@ const huzaifa = {
   role: "Software Engineering Student & Full Stack Developer",
   university: "FAST-NUCES Lahore",
   interests: ["Full Stack Web", "SaaS Architecture", "DSA", "Software Quality"],
-  current: ["GariTrip (PERN SaaS)", "Java DSA on LeetCode", "JMeter performance testing"],
+  current: ["Java projects", "Python projects", "Campus Gigs", "Nutrify", "Java DSA on LeetCode"],
   learning: ["System Design", "Testing & CI/CD", "Advanced React"],
   openTo: ["Internships", "Collaborations", "Open Source"],
 
