@@ -1,4 +1,4 @@
-<!-- Banner -->
+ <!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Muhammad%20Huzaifa&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20DSA%20%7C%20Software%20Engineering%20Student&descSize=18&descAlignY=60" alt="banner" />
 </p>
@@ -83,7 +83,6 @@ I'm **Muhammad Huzaifa**, a Software Engineering student at **FAST-NUCES Lahore*
 | [Nutrify](https://github.com/huzaifahayee/Nutrify) | AI dish recognition and calorie estimation from a single photo, built for South Asian food | Python, EfficientNet-B0, FastAPI, React |
 | [Campus Gigs](https://github.com/anasrashid369/Campus-gigs) | Desktop marketplace where students post paid tasks, with a token escrow and ledger | Java 17, Swing, MySQL, Maven |
 
-
 ### Project Highlights
 
 **Nutrify** (team of two)
@@ -114,6 +113,14 @@ I'm **Muhammad Huzaifa**, a Software Engineering student at **FAST-NUCES Lahore*
   <img src="https://streak-stats.demolab.com?user=huzaifahayee&theme=tokyonight&hide_border=true" />
 </p>
 
+### Contribution Graph
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/36BCF7/huzaifahayee" alt="Huzaifa's GitHub Contribution Graph" width="100%" />
+</p>
+
+### Activity Graph
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=huzaifahayee&theme=tokyo-night&hide_border=true&area=true" />
 </p>
@@ -133,7 +140,7 @@ const huzaifa = {
   openTo: ["Internships", "Collaborations", "Open Source"],
 
   sayHi() {
-    console.log("Thanks for visiting! Let's build something great together ");
+    console.log("Thanks for visiting! Let's build something great together");
   },
 };
 
